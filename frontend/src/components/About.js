@@ -170,7 +170,7 @@ const AboutMe = () => {
           color="primary"
           aria-label="Portfolio"
           component="a"
-          href="/portfolio"
+          href="/"
           target="_blank"
           rel="noopener noreferrer"
         >
