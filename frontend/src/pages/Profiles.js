@@ -79,7 +79,7 @@ const Profiles = () => {
               component="img"
               alt={profile.name}
               height="140"
-              image={profile.avatar} // Replace with profile.banner if available
+              image={profile.avatar} 
               title={profile.name}
             />
             <CardContent>
