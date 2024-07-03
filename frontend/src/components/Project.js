@@ -11,7 +11,7 @@ const StyledCard = styled(Card)(({ theme }) => ({
   boxShadow: theme.shadows[5],
   borderRadius: theme.shape.borderRadius,
   overflow: 'hidden',
-  height: '100%', // Ensure the card takes up full height
+  height: '100%', 
   display: 'flex',
   flexDirection: 'column',
   justifyContent: 'space-between',
