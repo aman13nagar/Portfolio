@@ -2,7 +2,7 @@ import React from 'react';
 import { Box, Typography, Button, Container } from '@mui/material';
 import { styled } from '@mui/system';
 import { Link } from 'react-router-dom';
-import errorImage from '../assets/images/404-page-not-found.svg'; // Ensure you have an image in your assets folder
+import errorImage from '../assets/images/404-page-not-found.svg'; 
 
 const Background = styled(Box)(({ theme }) => ({
   display: 'flex',
